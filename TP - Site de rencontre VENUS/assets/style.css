@@ -1,0 +1,81 @@
+.test {
+    height: 30rem;
+    width: auto;
+}
+
+.wallpaper {
+    background-image: url("../assets/img/wallpaper.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bold {
+    font-weight: bold;
+    color: white;
+}
+
+
+#lastname::placeholder,
+#firstname::placeholder,
+#age::placeholder,
+#postalCode::placeholder,
+#email::placeholder {
+    color: grey;
+    font-style: italic;
+}
+
+.register {
+    color: #fca3a9;
+}
+
+.button-color {
+    background-color: #fca3a9;
+    color: white;
+}
+
+.logo-size {
+    width: 15rem;
+    height: auto;
+}
+
+.input-title {
+    color: black;
+}
+
+.logo {
+    width: 55%;
+    height: auto;
+}
+
+.wallpaperLovers,
+.wallpaperUser {
+    background-color: #fca3a9;
+}
+
+.link-color {
+    color: #FF13A7;
+    display: block;
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
+}
+
+.link-color:hover {
+    text-decoration: none;
+    color: #FF13A7;
+}
+
+.slogan-color {
+    color: #FF13A7;
+}
+
+footer {
+    height: 7rem;
+    width: auto;
+    color: #FF13A7;
+}
+
+.color-meetic,
+.color-supp {
+    background-color: #FF13A7;
+}
+
