@@ -42,14 +42,14 @@ $profils = [
         "description" => "Après 30 ans de mariage, je me remets en selle et j'attends aujourd'hui mon prochain amour qui partagera le reste de ma vie."
     ],
     5 => [
-        "lastName" => "Macron",
-        "firstName" => "Emmanuel",
-        "age" => "43",
+        "lastName" => "Ferrand",
+        "firstName" => "Xavier",
+        "age" => "37",
         "gender" => "Homme",
-        "email" => "manu-president@elysee.com",
-        "postalCode" => 75008,
-        "picture" => "assets/img/Macron.jpg",
-        "description" => "Après de gros soucis sentimentaux avec mon ex-épouse et professionnel, je tente une réinsertion progressive vers une vie normale."
+        "email" => "xavier-ferrand@outlook.fr",
+        "postalCode" => 88000,
+        "picture" => "assets/img/Ferrand.jpg",
+        "description" => "Passionné de théâtre, cinéma et sorties culturelles, je souhaite trouver l'autre moitié de mon intellect et de mon coeur."
     ],
     6 => [
         "lastName" => "Ferrand",
@@ -112,13 +112,14 @@ $profils = [
         "description" => "J'aimerais faire de belles rencontres et partager un bout de chemin avec celui qui fera chavirer mon coeur.",
     ],
     12 => [
-        "lastName" => "Trogneux",
-        "firstName" => "Brigitte",
-        "age" => "63",
+        "lastName" => "Varot",
+        "firstName" => "Luna",
+        "age" => "19",
         "gender" => "Femme",
-        "email" => "brigitte-trogneux@outlook.fr",
-        "postalCode" => 75016,
-        "picture" => "assets/img/trogneux.jpeg",
-        "description" => "Séparée depuis peu, je cherche un nouveau petit jeune",
+        "email" => "luna-varot@hotmail.fr",
+        "postalCode" => 37000,
+        "picture" => "assets/img/varot.jpg",
+        "description" => "J'aimerais faire de belles rencontres et partager un bout de chemin avec celui qui fera chavirer mon coeur.",
     ],
+
 ];
